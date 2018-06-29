@@ -1,4 +1,4 @@
-## TCL/TK的版本问题
+## 1.TCL/TK的版本问题
 
 macos10.9以后且python版本为64位的，不再需要使用IDLE或者tkinter，因为有了内置的Tcl/Tk 8.6
 
