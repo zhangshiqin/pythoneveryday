@@ -1,3 +1,4 @@
+# 参考：https://mp.weixin.qq.com/s/lwMPKTsni93px4zdS9jDTQ
 
 def swap(x,i,j):
    """
